@@ -20,6 +20,7 @@ namespace LeaveManagementSystem.Web.Controllers
 
         public IActionResult Privacy()
         {
+            //agrego comentario
             return View();
         }
 
